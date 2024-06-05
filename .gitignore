@@ -1,0 +1,5 @@
+vendor/
+#chaincode-external/
+chaincode-go/
+ordermanagement.go.bkp
+README.md
